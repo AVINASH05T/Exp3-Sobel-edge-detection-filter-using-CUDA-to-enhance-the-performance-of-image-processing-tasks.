@@ -2,7 +2,8 @@
 
 ## NAME - AVINASH T
 ## REGISTER NO - 212223230026
-## EX. NO - 1
+## EX. NO - 3
+
 
 <h1> <align=center> Sobel edge detection filter using CUDA </h3>
   Implement Sobel edge detection filtern using GPU.</h3>
